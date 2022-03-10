@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersenyBeosztoRendszer", "VersenyBeosztoRendszer\VersenyBeosztoRendszer.csproj", "{D7059388-4259-4377-A211-9173947DDD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7059388-4259-4377-A211-9173947DDD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7059388-4259-4377-A211-9173947DDD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7059388-4259-4377-A211-9173947DDD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7059388-4259-4377-A211-9173947DDD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A53A8B3-D91C-4B16-83B8-A8E5C1E4780E}
+	EndGlobalSection
+EndGlobal
